@@ -1,1 +1,31 @@
 /* background: linear-gradient(180deg, #5AE2FD 0%, #5ACBF9 100%); */
+
+body {
+    background: linear-gradient(134.76deg, #4E60FE 0%, #3CA0CC 54.59%, #4F61FF 102.75%);
+    width: 100vw;
+    height: 100vh;
+}
+
+.container {
+    color: white;
+    width: 95vw;
+    height: 75vh;
+}
+
+#todayData {
+    margin: auto;
+    margin-top: 35px;
+    width: 95%;
+    max-width: 560px;
+    height: 75%;
+}
+
+#iconWeatherToday {
+    width: auto;
+    height: 30vh;
+    margin: auto;
+}
+
+#grades {
+    font-size: 10em;
+}
